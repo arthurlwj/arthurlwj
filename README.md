@@ -1,6 +1,9 @@
 ## Hello! I´m Arthur Bezerra
-Student Analysis and systems development -  3° time course
+<div>Student Analysis and systems development -  3° time course</div>
+<div>
 Federal Institute of Science and Technology of Pernambuco
+  </div>
+  <br>
 
 <div>
   <a href="https://github.com/arthurlwj">
