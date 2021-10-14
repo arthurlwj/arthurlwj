@@ -1,4 +1,7 @@
-## Olá, eu sou Arthur Bezerra
+## Hello! I´m Arthur Bezerra
+Student Analysis and systems development -  3° time course
+Federal Institute of Science and Technology of Pernambuco
+
 <div>
   <a href="https://github.com/arthurlwj">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurlwj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
